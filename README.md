@@ -1,6 +1,16 @@
 # Gated-Community-Management-System
 A comprehensive web-based platform for efficient residential society management, featuring modules for complaint tracking, amenity booking, visitor management, real-time chat, and payment tracking.
 
+Key Features
+1.Role-based login for Owners and Staff
+2.Maintenance and utility payment tracking
+3.Visitor management and entry records
+4.Community events and announcements
+5.Complaint registration and resolution tracking
+6.Amenity booking system for shared facilities
+7.Group chat for resident communication
+8.Responsive and user-friendly interface
+
 **Tech Stack**
 
 Node.js, Express.js for the backend; MySQL for database management; HTML, CSS, and JavaScript for front-end development.
