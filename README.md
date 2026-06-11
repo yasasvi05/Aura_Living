@@ -3,12 +3,19 @@ A comprehensive web-based platform for efficient residential society management,
 
 Key Features
 Role-Based Authentication – Secure login portals for both Owners and Staff with dedicated access to relevant functionalities.
+
 Payment Management – Track and manage maintenance, utility, and other community-related payments efficiently.
+
 Visitor Management – Record, monitor, and manage visitor entries to enhance community security.
+
 Event Management – View, organize, and participate in community events and announcements.
+
 Complaint Management – Register, track, and resolve resident complaints through a centralized system.
+
 Amenity Booking – Reserve and manage shared facilities such as clubhouses, meeting rooms, sports courts, and recreational spaces.
+
 Community Communication – Facilitate interaction between residents and management through an integrated group chat feature.
+
 Responsive User Interface – Clean, intuitive, and mobile-friendly design for seamless access across devices.
 
 **Tech Stack**
